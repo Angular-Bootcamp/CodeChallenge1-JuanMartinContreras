@@ -1,0 +1,157 @@
+/* Styles go here */
+
+@media screen and (max-width:1080px) {
+  header {
+    background-color: #C2185B;
+    height: 20px;
+    margin-bottom: 0px;
+  }
+  #descripcion {
+    margin-top: 0px;
+  }
+  #descripcion #encabezado {
+    background-color: #E91E63;
+    text-align: center;
+    font-family: helvetica;
+    color: white;
+    height: 65px;
+    width: 100%;
+  }
+  #descripcion i {
+    float: left;
+    padding: 0 0 0 15px;
+    color: white;
+    position: relative;
+  }
+  #descripcion #contenido {}
+  #texto {
+    color: #949494;
+    padding: 0px 0px 10px 0px;
+    position: relative;
+  }
+  #tipos span {
+    color: white;
+    border-radius: 2px;
+    font-size: 16px;
+    font-variant: small-caps;
+    font-weight: 600;
+    margin-right: 5px;
+    padding: 1px 10px 5px;
+  }
+  #tipo1 {
+    background-color: #97D077;
+  }
+  #tipo2 {
+    background-color: #966DAB;
+  }
+  #tipo3 {
+    background-color: #3399FF;
+  }
+  #texto #nombre {
+    color: #E91E63;
+    font-size: 25px;
+  }
+  #texto h {
+    font-family: inherit;
+  }
+  #texto p {
+    font-family: inherit;
+  }
+  .dl-horizontal dt {
+    float: left;
+    width: 200px;
+    clear: left;
+    text-align: left;
+    color: #949494;
+  }
+  .dl-horizontal dd {
+    color: #949494;
+  }
+  #imagen {
+    padding: 10px 15px 10px 10px;
+    height: 190px;
+    width: 190px;
+    float: left;
+    position: relative;
+  }
+  #generalinfo2 {
+    padding: 0 0 0 0px;
+    font-family: helvetica;
+    color: white;
+    width: 100%;
+    float: right;
+  }
+  #generalinfo2 h4 {
+    background-color: #949494;
+    font-family: helvetica;
+    color: white;
+    width: 100%;
+    position: relative;
+    padding-left: 10px;
+  }
+  #generalinfo2 dt {
+    width: 280px;
+    white-space: normal;
+    margin-bottom: 5px;
+    color: #949494;
+  }
+  #generalinfol dd {
+    margin-left: 300px;
+    text-align: right;
+    color: #949494;
+  }
+  #evoluciones h4 {
+    background-color: #949494;
+    padding: 0 0 0 0px;
+    font-family: helvetica;
+    color: white;
+    width: 100%;
+    position: relative;
+    padding-left: 10px;
+  }
+  #imagen2 {
+    height: 90px;
+    width: 90px;
+    border: 1px solid black;
+    float: left;
+    margin-left: 10px;
+    position: static;
+  }
+  #imagen3 {
+    border: 1px solid #FFF;
+    width: 100%;
+    /* you can use % */
+    height: auto;
+  }
+  #evoluciones {
+    width: 100%;
+  }
+  #evoluciones h6 {
+    text-align: right;
+    width: 100%;
+  }
+  #tipos {
+    float: left;
+    margin-left: "inherit";
+  }
+  #numpoke {
+    text-align: right;
+    float: right;
+    width: 60%;
+    color: #949494;
+  }
+  #evoluciones #nomlev {
+    float: left;
+    color: #949494;
+  }
+  #evo h5 {
+    margin-left: 20px;
+  }
+  #evoluciones h5 strong {
+    color: black;
+  }
+  #bulba {
+    float: left;
+  }
+}
+
